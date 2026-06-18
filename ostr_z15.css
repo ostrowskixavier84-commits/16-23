@@ -1,0 +1,9 @@
+body {
+    color: #6CA45D; /* Sposób 1 - wyliczony z daty i buta: R=108(6C), G=164(A4), B=93(5D) */
+    font-size: 30pt;
+}
+p {
+    color: rgb(55%, 36%, 82%); /* Sposób 4 - procentowy wyliczony ze wzorów */
+    font-size: 20pt;
+}
+/* Ostr Z15_css */
